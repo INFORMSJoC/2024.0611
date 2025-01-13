@@ -47,9 +47,7 @@ This repository includes
 
 All the benchmark instances we generated for the paper experiments are also available at this [GitHub repository](https://github.com/HWangUPV/MCLP). 
 
-All data involved in this work are also attached and Ziped (see MCLP_Benchmark_Instances.zip). It includes benchmark instances of 8 popular data sets, including random sets GR , Beasley , ZDS, PCB , real-world sets SJC, and Máximo, as well as benchmark data sets BDS and extended data BDS1000 for the MCLP.
-
-Some of these benchmark data are also available at websites  [http://www.lac.inpe.br/~lorena/instancias.html](http://www.lac.inpe.br/~lorena/instancias.html)  (SJC),  [http://www.https://sites.google.com/site/nascimentomcv/downloads/mclp](http://www.https//sites.google.com/site/nascimentomcv/downloads/mclp)  (Máximo),  [https://github.com/fabiofurini/LocationCovering](https://github.com/fabiofurini/LocationCovering)  (BDS).
+It includes benchmark instances of 8 popular data sets, including random sets GR, Beasley, ZDS, PCB, real-world sets SJC, and Máximo, as well as benchmark data sets BDS and extended data BDS1000 for the MCLP.
 
 Each instance file contains information on nodes and is named with the data set and number of nodes, e.g., SJC708.txt. The first line of the instance file includes the basic information about the instances. The number of chosen facilities and service radius are not specified in the instance file but are defined as a part of the parameter arguments.
 
