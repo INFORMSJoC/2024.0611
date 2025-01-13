@@ -1,6 +1,6 @@
 ## Configuration Example
 
-To run the program, arguments are required. 
+Arguments are required to run the program. 
 Basically, the arguments consist of the instances and required parameters of the algorithm. 
 ```
 Method InstanceFolder InstanceName ResultFolder NumOfFacililty(p) Radius(r) CE-parameters(N ρ nLS α Cmax) RandomSeed
@@ -22,4 +22,5 @@ CE Instances SJC708.txt Results 6 800 2000 0.05 20 0.8 50 0
 - $Cmax$: CE parameter, 50
 - $Seed$: the seed of randomness, 0
 
-Compilation with the example configuration have been successfully tested on a machine running Windows operating system.
+We note that the 'InstanceFolder' should be the address of the corresponding instance.
+Compilation with the example configuration has been successfully tested on a machine running Windows operating system.
