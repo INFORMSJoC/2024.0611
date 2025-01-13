@@ -1,5 +1,5 @@
 ## Source Codes
-The software/algorithm is originally coded in C# as shown in directory [src](src/), where two independent programs are uploaded for the two MCLP settings:
+The software/algorithm is originally coded in C# as shown in this directory [src](/), where two independent programs are uploaded for the two MCLP settings:
 - $I=J$: selecting $p$ facilities from all demand nodes ($I$), where $J$ is the range of all possible facilities
 - $I \neq J$, the range of possible facilities $J$ is not equal to the demand nodes $I$
   
