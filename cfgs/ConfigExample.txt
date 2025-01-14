@@ -1,0 +1,1 @@
+CE Instances SJC708.txt Results 6 800 2000 0.05 20 0.8 50 0
